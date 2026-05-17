@@ -57,6 +57,20 @@
             </div>
           </dl>
         </div>
+        <figure class="hero__visual" aria-label="Интерьер премиальной клиники косметологии">
+          <div class="hero__image-stage">
+            <img
+              class="hero__clinic-image"
+              src="assets/img/ChatGPT%20Image%2017%20мая%202026%20г.,%2021%2022%2050.png"
+              width="1672"
+              height="941"
+              alt="Интерьер премиальной клиники косметологии"
+              loading="eager"
+              decoding="async"
+              fetchpriority="high"
+            >
+          </div>
+        </figure>
       </div>
     </section>
 
